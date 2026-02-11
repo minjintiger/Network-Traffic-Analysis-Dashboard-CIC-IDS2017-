@@ -113,12 +113,12 @@ The dashboard updates in real time based on preprocessing choices.
 Project Structure
 --------------------------------------------------
 
-``
-├── Fial_Term_Project.py  
+```
+├── Final_Term_Project.py  
 ├── Wednesday-workingHours.pcap_ISCX.csv  
 ├── CS_5764_Final_Term_Project_Report.pdf  
 └── README.md  
-``
+```
 --------------------------------------------------
 How to Run
 --------------------------------------------------
