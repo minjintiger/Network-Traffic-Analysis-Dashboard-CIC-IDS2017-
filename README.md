@@ -134,6 +134,10 @@ Then run:
 
 If the dataset location changes, update DATA_PATH inside the script.
 
+Dataset is not included due to size.
+Download from:
+https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
+
 --------------------------------------------------
 Tech Stack
 --------------------------------------------------
